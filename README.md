@@ -8,7 +8,7 @@
  
 My name is Nambinina from Madagascar. Software engineer student enthusiast, believer in agile software development, team work and clean code. Always learning new things, ready for discussions and making new projects.
  
-- 🔭 I’m currently learning Java. 
+- 🔭 I’m currently learning React. 
 - 🎓 Studying software engineering at Ecole National d'Informatique, Fianarantsoa.
 - 🌱 I’m looking to collaborate on anything ! 
 - 💬 Ask me about anything. I am happy to help. 
@@ -22,4 +22,4 @@ My name is Nambinina from Madagascar. Software engineer student enthusiast, beli
 
 [<img src="https://cdn.simpleicons.org/github/#181717" alt='github' height='40'>](https://github.com/Nambinina-H)  [<img src="https://cdn.simpleicons.org/linkedin/#0A66C2" alt='linkedin' height='40'>](https://www.linkedin.com/in/nambinina-hasina-rasoanaivo-b6b280217/)  [<img src="https://cdn.simpleicons.org/facebook/#1877F2" alt='facebook' height='40'>](https://www.facebook.com/100083606024621)  [<img src="https://cdn.simpleicons.org/codewars/#B1361E" alt='codewars' height='40'>](https://www.codewars.com/users/Nambinina-H)  [<img src="https://cdn.simpleicons.org/hackerrank/#00EA64" alt='hackerrank' height='40'>](https://www.hackerrank.com/Nambinina)
 
-Last edited on : 03/09/2023
+Last edited on : 17/09/2023
