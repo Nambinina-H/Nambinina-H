@@ -6,7 +6,7 @@
 
 Je m'appelle **Nambinina**, un passionné d' **ingénierie logicielle**. Je crois en l'importance des **méthodologies agiles**, des **bonnes pratiques de code** et de la **collaboration en équipe** pour innover et résoudre des problèmes.
 
-- 🌱 Actuellement, je me spécialise dans **C#**,**.Net**, **React**, **Azure**.
+- 🌱 Actuellement, je me spécialise dans **C#**,**.Net**, **Javascript**, **React**, **Azure**.
 - 🎓 Je poursuis un diplôme en **Ingénierie Logicielle** à l'Ecole Nationale d'Informatique, Fianarantsoa.
 - 💼 Ouvert à des collaborations sur des projets intéressants !
 - 💬 N'hésite pas à me contacter pour discuter ou poser des questions. Je serai ravi de t'aider.
@@ -19,11 +19,12 @@ Je m'appelle **Nambinina**, un passionné d' **ingénierie logicielle**. Je croi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 Reste en contact
+## 📫 Restons en contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nambinina-H)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nambinina-hasina-rasoanaivo/)
@@ -31,4 +32,4 @@ Je m'appelle **Nambinina**, un passionné d' **ingénierie logicielle**. Je croi
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nambinina-H)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nambinina)
 
-_Dernière mise à jour : 16/09/2024_
+_Dernière mise à jour : 04/12/2024_
