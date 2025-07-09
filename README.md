@@ -6,16 +6,16 @@
 
 Je m'appelle **Nambinina**, un passionné d' **ingénierie logicielle**. Je crois en l'importance des **méthodologies agiles**, des **bonnes pratiques de code** et de la **collaboration en équipe** pour innover et résoudre des problèmes.
 
-- 🌱 Actuellement, je me spécialise dans **C#**,**.Net**, **Javascript**, **React**, **Azure**.
-- 🎓 Je poursuis un diplôme en **Ingénierie Logicielle** à l'Ecole Nationale d'Informatique, Fianarantsoa.
 - 💼 Ouvert à des collaborations sur des projets intéressants !
 - 💬 N'hésite pas à me contacter pour discuter ou poser des questions. Je serai ravi de t'aider.
-- 🏷️ **Centres d'intérêt** : Développement web, développement logiciel, cloud computing, big data, et systèmes de bases de données.
+- 🏷️ **Centres d'intérêt** : Développement web, développement backend, cloud computing, automatisation.
 
 ## 🛠️ Langages et Outils
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -32,4 +32,4 @@ Je m'appelle **Nambinina**, un passionné d' **ingénierie logicielle**. Je croi
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nambinina-H)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nambinina)
 
-_Dernière mise à jour : 04/12/2024_
+_Dernière mise à jour : 09/07/2025_
